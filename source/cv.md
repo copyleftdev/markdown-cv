@@ -1,12 +1,12 @@
 ***
-title: Don Johnson
-street: 760 W Naomi Ave Unit A
-city: Arcadia
-state: California
-postcode: 91007
-phone: 626-200-9760
-email: dj@codetestcode.io
-github: https://github.com/copyleftdev
+> title: Don Johnson
+> street: 760 W Naomi Ave Unit A
+> city: Arcadia
+> state: California
+> postcode: 91007
+> phone: 626-200-9760
+> email: dj@codetestcode.io
+> github: https://github.com/copyleftdev
 ***
 
 ### Personal summary

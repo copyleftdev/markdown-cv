@@ -27,7 +27,7 @@ pdf:
 	"$(INPUTDIR)"/*.md \
 	-o "$(OUTPUTDIR)/cv.pdf" \
 	--template="$(STYLEDIR)/template.tex" \
-	--pdf-engine=mactex
+	--pdf-engine=xelatex
 
 tex:
 	pandoc -s \

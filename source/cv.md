@@ -12,14 +12,14 @@ github: https://github.com/copyleftdev
 
 ### Personal summary
 
-> I'm a passionate QA Engineer that has been working in the field of test for
-> over 20 years, I am incredibly  passionate about technology and am constantly
+> I'm a passionate QA Engineer who has been working in the field of test for
+> over 20 year. I love technology and am constantly
 > evolving my skills sets. I Feel that the combination of my skill sets
-> would make great addition to any engineering/QA team.
+> would make great addition to any Engineering/QA team.
 
 ### Technical Skills
 #### Languages
-- Basic: Javascript, Html, CSS, Golang, C#, Ruby, Java, Bash, Powershell, SQL.
+- Proficient: Javascript, Html, CSS, Golang, C#, Ruby, Java, Bash, Powershell, SQL.
 - Advanced: Python.
 
 #### Databases
@@ -61,7 +61,7 @@ github: https://github.com/copyleftdev
 - Developed a TLS auditing System to ensure that all systems are conplaint prior to going to production.
 - Developed a microservice to replace Qmetry Test Management Software with a simple SVN>JIRA  service.
 
-##### Jan 2012 - Sep 2016: QA Engineer/ Devops Engineer  Guidance Software
+##### Jan 2012 - Sep 2016: QA Engineer/ Devops Engineer, Guidance Software
 > In this role I held multiple positions at Guidance Software in both RD and Devops.
 
 - Developed Test plans for [Enforce eDiscovery](https://www.guidancesoftware.com/encase-ediscovery).

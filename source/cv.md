@@ -1,12 +1,12 @@
 ***
-> title: Don Johnson
-> street: 760 W Naomi Ave Unit A
-> city: Arcadia
-> state: California
-> postcode: 91007
-> phone: 626-200-9760
-> email: dj@codetestcode.io
-> github: https://github.com/copyleftdev
+title: Don Johnson
+street: 760 W Naomi Ave Unit A
+city: Arcadia
+state: California
+postcode: 91007
+phone: 626-200-9760
+email: dj@codetestcode.io
+github: https://github.com/copyleftdev
 ***
 
 ### Personal summary
@@ -64,7 +64,7 @@
 > In this role I held multiple positions at Guidance Software in both RD and Devops.
 
 - Developed Test plans for [Enforce eDiscovery](https://www.guidancesoftware.com/encase-ediscovery).
-- Conducted (BDD)Functional, (Jmeter)Performance , (Selenium)UAT, Security testing for Encase eDiscovery.
+- Conducted Functional,Performance , UAT, Security testing for Encase eDiscovery.
 - Conducted [NIST](https://www.nist.gov/nist-quality-system) certifcation testing for final builds.
 - Created clear and precise bug reports containing [steps to reproduce, log entries, and if possible the code causing the issue].
 - Promoted to Devops Engineer to support a Cloud based Product [Enforce eDiscovery] in production.

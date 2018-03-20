@@ -12,7 +12,7 @@ github: https://github.com/copyleftdev
 ### Personal summary
 
 > I'm a passionate QA Engineer who has been working in the field of test for
-> over 20 year. I love technology and am constantly
+> over  a decade. I love technology and am constantly
 > evolving my skills sets. I Feel that the combination of my skill sets
 > would make great addition to any Engineering/QA team.
 

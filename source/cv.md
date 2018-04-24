@@ -9,7 +9,7 @@ email: dj@codetestcode.io
 github: https://github.com/copyleftdev
 ***
 
-### Personal summary
+### Personal Summary
 
 > I'm a passionate QA Engineer who has been working in the field of test for
 > over  a decade. I love technology and am constantly
@@ -79,7 +79,7 @@ github: https://github.com/copyleftdev
 - Managed Vsphere/Jenkins QA Enviroments.
 
 ##### March 2004 - May 2006: Network Analyst, Financial Processing Systems
-> In this role I manged over 100 customer  Ifratructurs
+> In this role I managed over 100 customers Infrastructure
 
 - Installed/Upgraded FPS Escrow Management Software [Summit](http://fpsnet.com/)
 - Identified and resolved issues on clients networks.
